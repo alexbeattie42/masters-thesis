@@ -1,0 +1,36 @@
+/#datasets/PEC/
+/#datasets/BETH/
+# datasets etc
+\#other/*
+\#lut_sharepoint/*
+reports/*
+results/*
+GAIN-Pytorch/*
+gans/*
+
+*.mat
+*.xlsx
+*.RData
+*.dat
+*.gz
+*.txt
+*.sql
+*.arff
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*~
+ipython/.ipynb_checkpoints
+.python-version
+.pylintrc
+
+# Distribution / packaging
+build/
+dist/
+
+dl-ml_analysis/
+dl-ml_analysis.zip
+
+.idea
+

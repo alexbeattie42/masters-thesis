@@ -1,0 +1,11 @@
+numpy==1.21.2
+pandas==1.4.0
+jupyter==1.0.0
+river==0.8.0
+pysad
+PyNomaly
+dill
+stumpy~=1.10.2
+tsod
+banpei
+matplotlib
